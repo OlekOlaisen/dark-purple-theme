@@ -7,7 +7,7 @@
 
 ## Installation
 
-To install this theme, you will need an extension that allows you to inject custom CSS into Discord, like [BetterDiscord](https://github.com/rauenzi/BetterDiscordApp)
+To install this theme, you will need an extension that allows you to inject custom CSS into Discord, like [BetterDiscord](https://betterdiscord.app/)
 
 
 Once you have the extension installed, copy and paste the contents of the custom.css file into the editor, or simply copy and paste the CSS-file in the betterdiscord theme folder.
